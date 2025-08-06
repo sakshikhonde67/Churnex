@@ -54,19 +54,19 @@ The goal is not just prediction — but **interpretability**, **business relevan
 ## 🖼️ Visual Insights
 
 ### 📊 Churn Distribution
-![Churn Distribution](plots/churn_distribution.png)
+- Visit Churn Distribution.png
 
 ### ☎️ Customer Service Calls by Churn
-![Customer Service Calls](plots/customer_service_calls_by_churn.png)
+- Visit Customer Service Calls by Churn.png
 
 ### 🌐 Churn Rate by International Plan
-![International Plan Churn Rate](plots/churn_by_international_plan.png)
+- Visit Churn Rate by International Plan.png
 
 ### 🔥 Correlation Matrix
-![Correlation Matrix](plots/correlation_matrix.png)
+- Visit COrreleation Matrix.png
 
 ### ⏳ Survival Analysis - log(HR)
-![Cox Model log(HR)](plots/survival_log_hr.png)
+- Visit Survival Analysis-log(HR).png
 
 
 ## 📈 Models & Evaluation
