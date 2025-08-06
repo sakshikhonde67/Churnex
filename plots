@@ -1,1 +1,5 @@
-
+mv Churn_Distribution.png plots/
+mv Customer_Service_Calls.png plots/
+mv International_Plan_Churn_Rate.png plots/
+mv Correlation_Matrix.png plots/
+mv Cox_Model_log(HR).png plots/
