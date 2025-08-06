@@ -1,5 +1,5 @@
-mv Churn_Distribution.png plots/
-mv Customer_Service_Calls.png plots/
-mv International_Plan_Churn_Rate.png plots/
-mv Correlation_Matrix.png plots/
-mv Cox_Model_log(HR).png plots/
+mv churn_distribution.png plots/churn_distribution.png
+mv customer_service_calls_by_churn.png plots/customer_service_calls_by_churn.png
+mv churn_by_international_plan.png plots/churn_by_international_plan.png
+mv correlation_matrix.png plots/correlation_matrix.png
+mv survival_log_hr.png plots/survival_log_hr.png
