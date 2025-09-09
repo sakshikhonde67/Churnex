@@ -54,19 +54,19 @@ The goal is not just prediction — but **interpretability**, **business relevan
 ## 🖼️ Visual Insights
 
 ### 📊 Churn Distribution
-- Visit Churn Distribution.png
+- ![Image Alt](https://github.com/sakshikhonde67/Churnex/blob/75ae787000bccb1ed6ff2711d0538ad61bd1eb60/Churn%20Distribution.png)
 
 ### ☎️ Customer Service Calls by Churn
-- Visit Customer Service Calls by Churn.png
+- ![Image Alt](https://github.com/sakshikhonde67/Churnex/blob/75ae787000bccb1ed6ff2711d0538ad61bd1eb60/Churn%20Customer%20Service%20Calls.png).
 
 ### 🌐 Churn Rate by International Plan
-- Visit Churn Rate by International Plan.png
+- ![Image Alt](https://github.com/sakshikhonde67/Churnex/blob/75ae787000bccb1ed6ff2711d0538ad61bd1eb60/Churn%20Rate%20by%20International%20Plan.png).
 
 ### 🔥 Correlation Matrix
-- Visit COrreleation Matrix.png
+- ![Image Alt](https://github.com/sakshikhonde67/Churnex/blob/75ae787000bccb1ed6ff2711d0538ad61bd1eb60/Churn%20Correlation%20Matrix.png).
 
 ### ⏳ Survival Analysis - log(HR)
-- Visit Survival Analysis-log(HR).png
+- ![Image Alt](https://github.com/sakshikhonde67/Churnex/blob/75ae787000bccb1ed6ff2711d0538ad61bd1eb60/Churn%20Log%20(hr).png).
 
 
 ## 📈 Models & Evaluation
@@ -86,6 +86,10 @@ The dashboard is built with **Streamlit**, featuring:
 - Model-based churn probability
 - Interactive filters
 - Business recommendations
+
+📦 Installation
+
+pip install -r requirements.txt
 
 To run locally:
 
