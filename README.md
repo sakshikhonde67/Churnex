@@ -1,5 +1,5 @@
 # Churnex
-End-to-end Customer Churn Prediction using Decision Trees, Logistic Regression, and Survival Analysis. Includes EDA, model evaluation, and an interactive Streamlit dashboard for churn insights and business decision support
+End-to-end Customer Churn Prediction using Decision Trees, Logistic Regression, and Survival Analysis. Includes EDA, model evaluation for churn insights and business decision support
 
 # Churnex
 
@@ -14,7 +14,7 @@ This project implements an end-to-end pipeline for customer churn prediction usi
 - **Decision Tree Classifier**
 - **Survival Analysis (Cox Proportional Hazards)**
 
-It includes data preprocessing, exploratory analysis, model evaluation, and an interactive **Streamlit dashboard** for business insights.
+It includes data preprocessing, exploratory analysis, model evaluation for business insights.
 
 ---
 
@@ -25,7 +25,7 @@ Churn is one of the most critical metrics for subscription-based businesses. Thi
 - Apply **statistical and machine learning techniques** to a real-world business scenario
 - Demonstrate the ability to go from **raw data → insights → predictive models → actionable dashboards**
 - Bridge **academic theory (survival analysis, classification models)** with **business application**
-- Strengthen my skills in data science for admission into a master's program in this field
+- Strengthen my skills in data science
 
 The goal is not just prediction — but **interpretability**, **business relevance**, and **deployability**.
 
@@ -78,14 +78,6 @@ The goal is not just prediction — but **interpretability**, **business relevan
 | Cox Model           | Survival curves, Retention probabilities |
 
 ---
-
-## 📊 Dashboard
-
-The dashboard is built with **Streamlit**, featuring:
-- Key churn KPIs
-- Model-based churn probability
-- Interactive filters
-- Business recommendations
 
 📦 Installation
 
