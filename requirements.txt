@@ -1,0 +1,8 @@
+pandas
+standarscalar
+numpy
+matplotlib
+seaborn
+LogisticRegression
+DecisionTreeClassifier
+joblib
