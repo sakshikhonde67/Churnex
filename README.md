@@ -89,9 +89,8 @@ The dashboard is built with **Streamlit**, featuring:
 
 📦 Installation
 
+```bash
 pip install -r requirements.txt
-
-To run locally:
 
 ```bash
 streamlit run churn_dashboard.py
